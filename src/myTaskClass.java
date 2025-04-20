@@ -15,7 +15,7 @@ public class myTaskClass {
 	String UserName = "standard_user";
 	String Password = "secret_sauce";
 	
-	
+	//testing changes
 	
 	@BeforeTest
 	public void MySetup() {
