@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-17T14:58:53 EET" name="Default suite" finished-at="2025-04-17T14:58:53 EET" duration-ms="935">
+    <groups>
+    </groups>
+    <test started-at="2025-04-17T14:58:53 EET" name="Default test" finished-at="2025-04-17T14:58:53 EET" duration-ms="935">
+      <class name="myTaskClass">
+        <test-method is-config="true" signature="MySetup()[pri:0, instance:myTaskClass@158a3b2e]" started-at="2025-04-17T14:58:53 EET" name="MySetup" finished-at="2025-04-17T14:58:53 EET" duration-ms="705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MySetup -->
+        <test-method signature="Login()[pri:1, instance:myTaskClass@158a3b2e]" started-at="2025-04-17T14:58:53 EET" name="Login" finished-at="2025-04-17T14:58:53 EET" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="PrintItemsFirstLetter()[pri:4, instance:myTaskClass@158a3b2e]" started-at="2025-04-17T14:58:53 EET" name="PrintItemsFirstLetter" finished-at="2025-04-17T14:58:53 EET" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintItemsFirstLetter -->
+        <test-method is-config="true" signature="DoNothing()[pri:0, instance:myTaskClass@158a3b2e]" started-at="2025-04-17T14:58:53 EET" name="DoNothing" finished-at="2025-04-17T14:58:53 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DoNothing -->
+      </class> <!-- myTaskClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
